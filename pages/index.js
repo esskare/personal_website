@@ -26,10 +26,10 @@ export default function Home({ posts }) {
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-              Raphaël Chelly
+              Esther Wangari
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Portfolio of a digital marketing guy who codes a bit.
+              Portfolio of a programmer
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -44,14 +44,14 @@ export default function Home({ posts }) {
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Graduated from a Master in Management at{' '}
+            Studying at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.excelia-group.com/"
+              href="https://www.usiu.ac.ke//"
               rel="noreferrer"
               target="_blank"
             >
-              Excelia Business School
+              United States International University
             </a>
             , I am passionate about digital, new technologies and Web3 projects. During my
             professional experiences, I was able to discover many sectors of activity : Wines and
@@ -327,5 +327,5 @@ export default function Home({ posts }) {
         </div>
       )} */}
     </>
-  );
+  )
 }
