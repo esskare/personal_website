@@ -29,7 +29,7 @@ export default function Home({ posts }) {
               Esther Wangari
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Portfolio of a programmer
+              Portfolio of a Computer Science Student
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -53,7 +53,7 @@ export default function Home({ posts }) {
             >
               United States International University
             </a>
-            , I am passionate about digital, new technologies and Web3 projects. During my
+            , I am passionate about Computer Science, new technologies and doing projects. During my
             professional experiences, I was able to discover many sectors of activity : Wines and
             Spirits at{' '}
             <a
@@ -115,7 +115,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-indigo-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-indigo-500/10 transition selection:bg-white/30 hover:bg-indigo-500/80 hover:shadow-indigo-500/5 focus:ring-indigo-500/40 dark:bg-indigo-400 dark:text-zinc-900 dark:shadow-indigo-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-indigo-400/80 dark:hover:shadow-indigo-400/5 dark:focus:ring-indigo-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://github.com/raphaelchelly"
+            href="https://github.com/esskare"
             rel="noreferrer"
             target="_blank"
           >
@@ -145,7 +145,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://twitter.com/raphael_chelly"
+            href="https://twitter.com/EssKareee"
             rel="noreferrer"
             target="_blank"
           >
