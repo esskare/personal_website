@@ -123,6 +123,25 @@ export default function Home({ posts }) {
           <div className="mt-2 justify-center"></div>
         </div>
       </div>
+      <div className="content mb-8">
+        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Projects</h2>
+        <p className="max-w-[46ch] leading-relaxed text-zinc-500 dark:text-slate-300">
+          A selection of projects I worked on in the past few years.
+        </p>
+      </div>
+      <div className="container py-12">
+        <div className="-m-4 flex flex-wrap">
+          {projectsData.map((d) => (
+            <Card
+              key={d.title}
+              title={d.title}
+              description={d.description}
+              imgSrc={d.imgSrc}
+              href={d.href}
+            />
+          ))}
+        </div>
+      </div>
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
           Latest Posts
@@ -179,34 +198,17 @@ export default function Home({ posts }) {
           )
         })}
       </ul>
-      <div className="flex justify-end text-base font-medium leading-6">
-        <Link
-          href="/blog"
-          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-          aria-label="all posts"
-        >
-          All Posts &rarr;
-        </Link>
-      </div>
-      <div className="content mb-8">
-        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Projects</h2>
-        <p className="max-w-[46ch] leading-relaxed text-zinc-500 dark:text-slate-300">
-          A selection of projects I worked on in the past few years.
-        </p>
-      </div>
-      <div className="container py-12">
-        <div className="-m-4 flex flex-wrap">
-          {projectsData.map((d) => (
-            <Card
-              key={d.title}
-              title={d.title}
-              description={d.description}
-              imgSrc={d.imgSrc}
-              href={d.href}
-            />
-          ))}
+      {posts.length > MAX_DISPLAY && (
+        <div className="flex justify-end text-base font-medium leading-6">
+          <Link
+            href="/blog"
+            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+            aria-label="all posts"
+          >
+            All Posts &rarr;
+          </Link>
         </div>
-      </div>
+      )}
       {/* {siteMetadata.newsletter.provider !== '' && (
         <div className="flex items-center justify-center pt-4">
           <NewsletterForm />
