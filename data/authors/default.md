@@ -1,8 +1,8 @@
 ---
-name: Esther Wangari  purrr
+name: Esther Wangari
 avatar: /static/images/avatar.jpg
-occupation: Computer Science Student  badgyeeelll
-company: KU Kenya
+occupation: Computer Science Student 
+company: United States International University (Kenya)
 email: estherwangari@gmail.com
 twitter: https://twitter.com/esskareee
 linkedin: https://www.linkedin.com/raphael.chelly
