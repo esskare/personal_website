@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Esther Wangari
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Student
+company: United States International University
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+twitter: https://twitter.com/esskareee
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/esskare
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tails Azimuth is a staudent of Computer Scince at the United States International University.
