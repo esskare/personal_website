@@ -32,7 +32,7 @@ export default function Home({ posts }) {
               Portfolio of a Computer Science Student
             </h2>
           </div>
-          <div className="mb-19 relative mr-auto w-[200px] pb-8 sm:mb-8 sm:w-[200px]">
+          <div className="mb-100 relative mr-auto w-[200px] pb-8 sm:mb-8 sm:w-[-2000px]">
             <Image
               src="/static/images/profile.jpg"
               alt="avatar"
