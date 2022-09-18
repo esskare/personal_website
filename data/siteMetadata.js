@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Ess Karee's Blog",
   author: 'Esther Wangari',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Ess Karee',
   description: 'A blog highlighting my Computer Science journey.',
   language: 'en-us',
   theme: 'system', // system, dark or light
