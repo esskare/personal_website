@@ -1,7 +1,7 @@
 ---
-name: Esther Wangari --- purrr
+name: Esther Wangari  purrr
 avatar: /static/images/avatar.jpg
-occupation: Computer Science Student - badgyeeelll!!!
+occupation: Computer Science Student  badgyeeelll
 company: KU Kenya
 email: estherwangari@gmail.com
 twitter: https://twitter.com/esskareee
