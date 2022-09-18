@@ -22,7 +22,7 @@ export default function Home({ posts }) {
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-      <div className="space-y-2 pt-6 pb-4 md:space-y-5">
+      <div className="space-y-5 pt-3 pb-8 md:space-y-5">
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
@@ -32,7 +32,7 @@ export default function Home({ posts }) {
               Portfolio of a Computer Science Student
             </h2>
           </div>
-          <div className="mb-19 relative mr-auto w-[200px] sm:mb-8 sm:w-[200px]">
+          <div className="mb-19 relative mr-auto w-[200px] pb-8 sm:mb-8 sm:w-[200px]">
             <Image
               src="/static/images/profile.jpg"
               alt="avatar"
