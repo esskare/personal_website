@@ -87,7 +87,7 @@ Gatero Girls' Highschool - Laikipia, Kenya
 
 ### Sports:
 
-- 
+- Table Tennis
 - 🏊🏼‍♂️ Swimming
 
 |                                                       |                                         |
