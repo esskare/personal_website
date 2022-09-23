@@ -1,11 +1,11 @@
 ---
-name: Esther Wangari Purr
+name: Esther Wangari
 avatar: /static/images/avatar.jpg
-occupation: Computer Science Student BADGYAL
-company: United States International University (Kenyas)
-email: estherwangari@gmail.com
-twitter: https://twitter.com/esskareee
-linkedin: https://www.linkedin.com/raphael.chelly
+occupation: Computer Science Student
+company: United States International University (Kenya)
+email: estherwangari534@gmail.com
+twitter: 
+linkedin: https://www.linkedin.com/in/esther-wangari-1002b3218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoFaOMGXfQTKUILie6YMruQ%3D%3D
 github: https://github.com/esskare
 ---
 
