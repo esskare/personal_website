@@ -58,6 +58,7 @@ Creation of a communication agency in the form of a micro-enterprise. Fabrilab s
 ### Master in Management @[Excelia BS](https://www.excelia-group.com)
 
 `Sept 2021 - Ongoing`
+
 United States International University - Africa
 Bachelor of Applied Science - BASc, Computer Technology
 
@@ -90,9 +91,7 @@ Gatero Girls' Highschool - Laikipia, Kenya
 - Table Tennis
 - 🏊🏼‍♂️ Swimming
 
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+
 
 ### Others:
 
