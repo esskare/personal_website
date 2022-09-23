@@ -57,9 +57,13 @@ Creation of a communication agency in the form of a micro-enterprise. Fabrilab s
 
 ### Master in Management @[Excelia BS](https://www.excelia-group.com)
 
-`Sept 2016 - Sept 2020`
+`Sept 2021 - Ongoing`
+United States International University - Africa
+Bachelor of Applied Science - BASc, Computer Technology
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+`Jan 2017 - April 2020`
+
+Gatero Girls' Highschool - Laikipia, Kenya
 
 ## Skills
 
@@ -68,25 +72,22 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 - 🇬🇧 English
 - 🇪🇸 Spanish
 - 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
 - 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+- UI/UX
 
 ### Soft Skills:
 
 - 🎨 Creative
 - 📚 Curious
 - 🤝🏼 Team Spirit
+- 🤝🏼 Leaderhip
+
 
 ## Interests
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
+- 
 - 🏊🏼‍♂️ Swimming
 
 |                                                       |                                         |
@@ -95,10 +96,10 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 
 ### Others:
 
-- 🗺️ Discovery and Traveling
+- 🗺️ Adventure and Traveling
 - 📷 Photography
 - 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
+- 
 
 ### Humanitarian:
 
